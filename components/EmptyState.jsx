@@ -13,8 +13,8 @@ const EmptyState = () => (
       spacing={8}
     >
       <VStack spacing={3} justify="center" w="full" textAlign="center">
-        <Heading size="lg">You haven't added any sites</Heading>
-        <Text>Welcome 👋 Let's get started. </Text>
+        <Heading size="lg">You haven&apos;t added any sites</Heading>
+        <Text>Welcome 👋 Let&apos;s get started. </Text>
       </VStack>
       <Button variant="solid" size="md">
         Add Your First Site
