@@ -1,4 +1,4 @@
-.container {
+/* .container {
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
@@ -119,3 +119,15 @@
     flex-direction: column;
   }
 }
+
+.greetingContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profileImg {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+} */
