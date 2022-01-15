@@ -57,7 +57,9 @@ export default function Home() {
 
         {auth.user ? (
           <>
-            <Button onClick={(e) => auth.signout()}>Sign Out</Button>
+            <Button mt={4} onClick={(e) => auth.signout()}>
+              Sign Out
+            </Button>
           </>
         ) : (
           <Button
